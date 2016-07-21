@@ -1,0 +1,12 @@
+{
+"vendorJs" : ["./bower_components/jquery/jquery.min.js",
+			  "./bower_components/bootstrap/dist/js/bootstrap.min.js"
+			  ],
+"vendorCss" : ["./bower_components/bootstrap/dist/css/bootstrap-theme.min.css",
+			   "./bower_components/bootstrap/dist/css/bootstrap.min.css"
+			   ],
+"customJs" : [],
+"customCss" : [],
+"fonts" : ["./app/assets/fonts/**/*"],
+"images" : ["./app/assets/images/**/*"]
+}

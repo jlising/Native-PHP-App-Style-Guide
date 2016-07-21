@@ -1,0 +1,21 @@
+{
+  "name": "phpstyleguide",
+  "description": "Native PHP App Style Guide",
+  "main": "gulpfile.js",
+  "authors": [
+    "Native PHP App Style Guide"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap": "^3.3.6",
+    "jquery": "1.10.2"
+  }
+}
